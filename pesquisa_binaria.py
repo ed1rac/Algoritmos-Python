@@ -23,7 +23,7 @@ minha_lista = [1, 3, 5, 7, 9]
 outra_lista = []
 
 import random
-drandom.seed()
+random.seed()
 for x in range(20):
     num = random.randint(1, 1000)
     outra_lista.append(num)
