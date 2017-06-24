@@ -15,4 +15,4 @@ def ordenacaoporSelecao(arr):
     return novoArr
 
 print ordenacaoporSelecao([5,3,6,2,10,12,20])
-#print ordenacaoporSelecao(['Led Zeppelin', 'Beatles', 'Rolling Stones', 'ABBA'])
+print ordenacaoporSelecao(['Led Zeppelin', 'Beatles', 'Rolling Stones', 'ABBA', 'Metallica'])
