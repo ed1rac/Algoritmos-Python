@@ -5,6 +5,7 @@ def sum(list):
 
 
 lista = [1,2,3,4, 5]
-#print lista[1:] #slice
-#print lista[1:3] #slice
+print(lista)
+print lista[1:] #slice
+print lista[1:3] #slice
 print sum(lista)
