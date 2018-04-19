@@ -18,4 +18,5 @@ def ordenacao_por_insercao(arr):
 
 
 print (ordenacao_por_insercao([5, 3, 6, 2, 10, 12, 1, 20]))
+print (ordenacao_por_insercao([12,9,3,7,14,11]))
 print (ordenacao_por_insercao(['Led Zeppelin', 'Beatles', 'Rolling Stones', 'ABBA', 'Metallica', 'Deep Purple']))
