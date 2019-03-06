@@ -16,4 +16,4 @@ def multiplica(x,y):
         return x + 2*z
 
 
-print multiplica(6,4)
+print (multiplica(6,4))
