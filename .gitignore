@@ -1,0 +1,63 @@
+# Python .gitignore Template
+# Inclua este conte#do em um arquivo chamado .gitignore na raiz do seu projeto.
+
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Arquivos compilados/bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuras de IDEs (VS Code, PyCharm)
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Pacotes e Distribuivelop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+MANIFEST
+*.exe
+
+# Vari veis de Ambiente e Segredos (MUITO IMPORTANTE)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+secrets.json
+
+# Cobertura de Testes
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Log e Arquivos tempor rios
+*.log
+tmp/
+

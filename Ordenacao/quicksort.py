@@ -8,4 +8,4 @@ def quicksort(array):
         return quicksort(menores) + [pivo] + quicksort(maiores)
 
 
-print quicksort([10,5,2,3,4,11,78,13,45,22,7])
+print (quicksort([10,5,2,3,4,11,78,13,45,22,7]))
