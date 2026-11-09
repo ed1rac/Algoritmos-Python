@@ -1,69 +1,37 @@
-# 🐍 Algoritmos em Python
+# 🐍 Algoritmos Clássicos em Python
 
 <div align="center">
-  <img src="https://media.giphy.com/media/VnXqEEMRSAYBvM75nS/giphy.gif" width="150" alt="Python GIF">
-  <br>
-  <strong>Programas e implementações focados no ensino de Algoritmos e Estruturas de Dados em Python</strong>
-</div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Algorithms-00599C?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Algorithms">
-  <img src="https://img.shields.io/badge/Data_Structures-121011?style=for-the-badge&logo=edx&logoColor=white" alt="Data Structures">
-  <img src="https://img.shields.io/badge/Educa%C3%A7%C3%A3o-FF6B6B?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Ensino">
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Algorithms](https://img.shields.io/badge/Tópicos-Arrays_%7C_Árvores_%7C_Numéricos_%7C_Dividir_para_Conquistar-FF6F00?style=for-the-badge)](https://github.com/ed1rac/Algoritmos-Python)
+
+**Implementações limpas, legíveis e idiomáticas de mais de 80 algoritmos essenciais da Ciência da Computação utilizando Python.**
+
 </div>
 
 ---
 
-## 🌟 Sobre o Projeto
+## 📌 Categorias de Algoritmos Implementados
 
-Este repositório nasceu de uma iniciativa acadêmica voltada puramente ao aprendizado e **ensino de Algoritmos e Estruturas de Dados** utilizando a flexibilidade conceitual da linguagem **Python**. O objetivo projetado é conseguir compilar, lapidar e estruturar todo o ferramental em um curso formativo completo e altamente didático da área de Computação.
-
-O conteúdo do projeto é guiado e fundamentado pelo aclamado livro **"Entendendo Algoritmos: um guia ilustrado para programadores e outros curiosos"** (*Grokking Algorithms*, do autor Aditya Y. Bhargava). Em cima dessa obra primorosa, eu aplico diversas modificações, melhorias e refatorações no código para enriquecer a experiência pedagógica.
-
-### 📚 O que você vai encontrar aqui:
-- Códigos-fonte estruturados de algoritmos vitais da Ciência da Computação (como *Busca Binária, QuickSort, Algoritmo de Dijkstra*, entre outros).
-- Implementações enriquecidas com comentários e focadas nas boas práticas acadêmicas.
-- Adaptações contínuas de algoritmos clássicos para sintaxes limpas, fáceis de assimilar *Pythonic*.
+- 📁 `Algoritmos_Numericos/`: Primalidade, MDC (Euclides), Fatorial, Fibonacci, conversão de bases e análise numérica.
+- 📁 `Arrays/`: Rotação de arrays, ordenação, busca linear, busca binária e janelas deslizantes.
+- 📁 `Arvores/`: Inserção, percursos em profundidade/largura e remoção em Árvores Binárias de Busca.
+- 📁 `Dividir para Conquistar/`: Algoritmos eficientes de ordenação como MergeSort e QuickSort e busca recursiva.
 
 ---
 
-## 🚀 Como Explorar os Algoritmos
+## 🚀 Como Executar
 
-Siga as instruções abaixo para testar os algoritmos por conta própria na sua máquina.
-
-**1. Clone o repositório:**
 ```bash
-git clone https://github.com/ed1rac/Algoritmos-Python.git
+# Exemplo executando busca binária:
+python3 Arrays/busca_binaria.py
 ```
-
-**2. Acesse a pasta correspondente:**
-```bash
-cd Algoritmos-Python
-```
-
-**3. Teste o arquivo desejado:**
-Certifique-se de que o Python esteja instalado na sua máquina (`python3 --version`). Após isso, basta invocar o interpretador:
-```bash
-python <nome_do_algoritmo>.py
-```
-
----
-
-## 👨‍💻 Autor
-
-👋 Feito por **Prof. Ed (Edkallenn Lima)**
-- ⭐️ Mais aulas, materiais acadêmicos e projetos: [edkallenn.github.io](https://edkallenn.github.io/)
-- 🌐 Redes Sociais: [LinkedIn](https://www.linkedin.com/in/edkallenn/) | [GitHub](https://github.com/ed1rac)
-
-@edkallenn<br>
-@ed1rac<br>
 
 ---
 
 ## ☕ Apoie o Projeto (Me Pague um Café / Buy Me a Coffee)
 
-Este projeto é desenvolvido com dedicação e carinho. Se este projeto foi útil para os seus estudos, trabalho ou produtividade diária e você quiser apoiar o desenvolvimento contínuo:
+Este projeto é desenvolvido com dedicação e carinho à disseminação do conhecimento e da tecnologia. Se ele foi útil para os seus estudos, aulas, trabalho ou produtividade diária e você quiser apoiar o desenvolvimento contínuo:
 
 - ☕ **Buy Me a Coffee (Internacional / Cartão / QR Code)**:
   - 👉 **[https://buymeacoffee.com/edkallenn](https://buymeacoffee.com/edkallenn)**
